@@ -8,5 +8,8 @@
     "start": "node index.js"
   },
   "author": "Me :D",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
 }
